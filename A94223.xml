@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prometheus Christianus, or, A treatise shewing the folly and vanity of atheism and containing the solution of the main arguments of the Socinians, the Arrians, the deists, and other unitarians ... : whereunto is annex'd the refutation of some dogmatical points of a modern author relating to the trinity / by John Sauvage ...</title>
+            <author>Sauvage, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94223</idno>
+            <idno type="STC">Wing S768C</idno>
+            <idno type="STC">ESTC R42539</idno>
+            <idno type="EEBO-CITATION">36282268</idno>
+            <idno type="OCLC">ocm 36282268</idno>
+            <idno type="VID">150264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150264)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2238:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prometheus Christianus, or, A treatise shewing the folly and vanity of atheism and containing the solution of the main arguments of the Socinians, the Arrians, the deists, and other unitarians ... : whereunto is annex'd the refutation of some dogmatical points of a modern author relating to the trinity / by John Sauvage ...</title>
+                  <author>Sauvage, John.</author>
+               </titleStmt>
+               <extent>[6], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be Sold by Rich. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1]695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Lambeth Palace Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apologetics --  Early works to 1800.</term>
+               <term>Trinity.</term>
+               <term>Socinianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150264:1" rendition="simple:additions"/>
+            <p>
+               <hi>Prometheus Chriſtianus:</hi> OR, A TREATISE Shewing the FOLLY and VANITY of ATHEISM, AND Containing the Solution of the main Arguments of the <hi>SOCINIANS,</hi> the <hi>ARRIANS,</hi> the <hi>DEISTS,</hi> and other <hi>
+                  <g ref="char:V">Ʋ</g>nitarians,</hi> which have a direct and im<g ref="char:EOLhyphen"/>mediate Tendency to the Utter Ruin and Subverſion of the very Foundation of Chriſtianity.</p>
+            <p>Whereunto is annex'd, The Refutation of ſome <hi>Dogmatical Points</hi> of a <hi>Modern Author</hi> relating to the TRINITY.</p>
+            <p>By <hi>JOHN SA<g ref="char:V">Ʋ</g>VAGE,</hi> Gent.</p>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be Sold by <hi>Rich. Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1695.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:150264:2"/>
+            <pb facs="tcp:150264:2"/>
+            <head>THE PREFACE.</head>
+            <p>FInding the Innumerable number of Heterodoxi<g ref="char:EOLhyphen"/>cal and Prophane Er<g ref="char:EOLhyphen"/>rors which in theſe diſ<g ref="char:EOLhyphen"/>ſolute Times make the Novel<g ref="char:EOLhyphen"/>liſts to Swarm with the fre<g ref="char:EOLhyphen"/>quent new Acceſſes of their Proſelytes, I deem'd it expe<g ref="char:EOLhyphen"/>dient to Propoſe the Grounds of their ſeveral Errors, and ſo to Refute them, which here I undertake.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:150264:3"/>
+            <pb facs="tcp:150264:3"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <label>SECT. I.</label>
+               <item>SHewing the Nullity and Vanity of the <hi>Atheiſts, Page 1</hi>
+               </item>
+               <label>SECT. II.</label>
+               <item>The Main Objection of the Heterodox <hi>Unita<g ref="char:EOLhyphen"/>rians</hi> is fully propos'd and ſolv'd by the Or<g ref="char:EOLhyphen"/>thodox <hi>Trinitarians. p. 5</hi>
+               </item>
+               <label>SECT. III.</label>
+               <item>A farther Attempt of the ſame Adverſaries is propos'd and ſolv'd, <hi>p. 11</hi>
+               </item>
+               <pb facs="tcp:150264:4"/>
+               <label>SECT. IV.</label>
+               <item>The Objections againſt <hi>Circuminciſion</hi> ſolv'd, <hi>p. 13</hi>
+               </item>
+               <label>SECT. V.</label>
+               <item>Wherein the reſt of the <hi>Unitarian</hi>'s Arguments are propos'd and ſolv'd, <hi>p. 16</hi>
+               </item>
+               <label>SECT. VI.</label>
+               <item>Certain <hi>Abſolete Opinions</hi> of <hi>another Au<g ref="char:EOLhyphen"/>thor</hi> are propos'd and ſolv'd, <hi>p. 19</hi>
+               </item>
+               <label>SECT. VII.</label>
+               <item>Two other Opinions of the ſame Author are pro<g ref="char:EOLhyphen"/>pos'd and ſolv'd, <hi>p. 23.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:150264:4"/>
+            <head>
+               <hi>Prometheus Chriſtianus:</hi> OR, A TREATISE Shewing the FOLLY and VANITY OF ATHEISM.</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECT. I.</hi> Shewing the Nullity and Vanity of the <hi>Atheiſts.</hi>
+               </head>
+               <p>THIS Prophane and Pernicious Error hath drawn many a Soul to their utter Ruine and Perdition; for their Poſition is, That there is no Supreme Deity nor Godhead exiſtent, to govern and regulate the Natural and Moral Tranſactions of this Univerſe.</p>
+               <pb n="2" facs="tcp:150264:5"/>
+               <p>The Grounds of their Doctrine are ſetled upon their inſatiable Avidity to ſatisfie the Suggeſtion of their Senſual Appetite, not invoking the leaſt Dictamen of Reaſon to their ſupport and conduct. Hence they let the Reins looſe to all Laſciviouſneſs, Delight, and Pleaſure that Sence can dictate to them.</p>
+               <p>To convince theſe Miſcreants of their dull and ſtu<g ref="char:EOLhyphen"/>pid Error, I muſt firſt deſire them to take a ſurvey of the admirable Products and ſtupendious Variety of this inferiour Orb. Let them conſider, that there can be no <hi>Effect</hi> without a <hi>Cauſe;</hi> and, where will they find a <hi>Cauſe</hi> that is impower'd to produce ſuch va<g ref="char:EOLhyphen"/>riety of Creatures as do embelliſh the Globe of the Earth with ſuch due Subordination, Stability, and Natural Inſtinct, for the preſervation and propagation of each Species in their kind? Let them conſider, that there is no created Power that hath any Proportion to be is no created Power that hath any Proportion to be the <hi>Cauſe</hi> of ſuch admirable <hi>Effects;</hi> for it exceeds the Capacity of all Created Power, whether Human or Angelical, to produce one Blade of Graſs, or one Leaf of a Tree, in perfection, much more to create ſuch a copious number of Vegetables and Animals as furniſh this World for the uſe of Man. All this argues the Certainty and Infallibility of the Exiſtence of the <hi>Ori<g ref="char:EOLhyphen"/>ginal Cauſe</hi> of ſuch variety of Products, and convin<g ref="char:EOLhyphen"/>ceth, that it muſt be an Omnipotent, All-wiſe, Prudent and Provident Creator.</p>
+               <p>Then let the dull and ſtupid <hi>Atheiſt</hi> caſt his Eyes up to Heaven, and contemplate the Variety of the ſuperiour Orbs of the <hi>Sun</hi> and <hi>Moon,</hi> with the reſt of the <hi>Planets</hi> and their Attendants, with the fix'd <hi>Stars</hi> that are immovably ſeated in the Firmament, which are more in number than the Sands of the Sea: Let the <hi>Atheiſt</hi> conſider how all theſe, by their rapt mori<g ref="char:EOLhyphen"/>on,
+<pb n="3" facs="tcp:150264:5"/>are daily carried in their Sphere round this in<g ref="char:EOLhyphen"/>feriour World once every day, without leaving their ſtations where they were firſt fixed: let him conſi<g ref="char:EOLhyphen"/>der moreover the regular and conſtant motion of the wand'ring <hi>Planets</hi> and their Concomitants, how they are all rapt by the Firſt Mover round this World once every day, while at the ſame time, by their natural motion, they are in progreſs of effect<g ref="char:EOLhyphen"/>ing their natural courſe, which the <hi>Moon</hi> accom<g ref="char:EOLhyphen"/>pliſheth in Eight and twenty Days, the <hi>Sun</hi> in one Year, the reſt of the <hi>Planets</hi> in a longer time; and thus by their various Aſpects and benign Influences communicate to us all the Bleſſings of a munificent and benign Creator, as <hi>Corn, Wine, Oyl,</hi> and all the <hi>Fruits of the Earth,</hi> which are abundantly ſufficient not only for Man's neceſſary ſupport and mainte<g ref="char:EOLhyphen"/>nance, but alſo for his pleaſure and delight: Which made St. <hi>Chryſoſtom</hi> ſay, <hi>In paginis Coelorum legitur divinitas; In the Book of the Heavens is read the Divinity.</hi> And St. <hi>Auguſtine</hi> crys out, O <hi>altitudo ſa<g ref="char:EOLhyphen"/>pientiae &amp; ſcientiae Dei! O the altitude of the Wiſdom and Science of God!</hi>
+               </p>
+               <p>Add to this the general and univerſal Conſent and Agreement of all Nations contain'd in the whole extent of this Univerſe, whereof there is not one Nation that denies the Exiſtence of a Deity. Now, if this general Perſwaſion ſhould prove falſe or de<g ref="char:EOLhyphen"/>ceitful, to whom could this Error and Deceit be im<g ref="char:EOLhyphen"/>puted, but to Him that imprinted this general Belief and Perſwaſion into the Minds of all Nations, it being wholly impoſſible that the Great Omnipotent Creator of the Univerſe, whoſe Providence is infinite, and who is Veracity and Truth itſelf, ſhould de<g ref="char:EOLhyphen"/>ceive
+<pb n="4" facs="tcp:150264:6"/>any one, and, by reaſon of his Omniſcience, ſhould be deceived himſelf, who penetrates the moſt abdit and moſt ſecret Receſſes of the ſuperiour and inferiour World by his Omniſcience? Yea, it is the Opinion of moſt learned Divines, that it is im<g ref="char:EOLhyphen"/>poſſible that any one Perſon, having attain'd to the perfect uſe of Reaſon, ſhould be ignorant of the Being of a GOD.</p>
+               <p>Now, if all this will not convince the <hi>Atheiſt</hi> of his black Error, I will give him a Metaphyſical De<g ref="char:EOLhyphen"/>monſtration <hi>à priori</hi> for the Being of a GOD.</p>
+               <p>And firſt, I will ſettle the true Notion of a Deity or Godhead; ſecondly, I ſhall prove the Poſ<g ref="char:EOLhyphen"/>ſibility of the Object of this Notion; and thirdly, I ſhall demonſtrate the real Exiſtence of it.</p>
+               <p>As to the firſt; a True GOD is that, and only that, which hath all Perfections poſſible, and no De<g ref="char:EOLhyphen"/>fect; and whatſoever hath all this, is compleatly God; and whatſoever faileth of any part of this, is not, nor cannot be GOD. This being preſup<g ref="char:EOLhyphen"/>pos'd, as the Ground and Subject of my Demonſtra<g ref="char:EOLhyphen"/>tion, I thus proceed to prove the poſſibility of it, which was the ſecond thing propos'd:</p>
+               <list type="syllogism">
+                  <item>All that which is not a Chymerical Fiction is poſſible.</item>
+                  <item>This Object is no Chymerical Fiction.</item>
+                  <item>Therefore this Object is poſſible.</item>
+               </list>
+               <p>Nothing can be here deny'd but the <hi>minor</hi> or ſecond Propoſition, which I thus prove:</p>
+               <list type="syllogism">
+                  <pb n="5" facs="tcp:150264:6"/>
+                  <item>A Chymerical Fiction hath a great Defect, to wit, its impoſſibility to exiſt.</item>
+                  <item>This Object hath no Defect.</item>
+                  <item>Therefore this Object is poſſible.</item>
+               </list>
+               <p>Now for the third thing propos'd, which was, to demonſtrate the Real Exiſtence of it:</p>
+               <list type="syllogism">
+                  <item>All that which is poſſible, and hath no Defect, is exiſtent.</item>
+                  <item>This Object is poſſible and hath no Defect.</item>
+                  <item>Therefore this Object is exiſtent.</item>
+               </list>
+               <p>The <hi>major</hi> or firſt Propoſition of this laſt Syllogiſm cannot be deny'd; the reſt is clear and evident: and therefore I here leave the inconſiderate <hi>Atheist</hi> to ponder the Force and Energy of this Demonſtration, and ſo I proceed to the <hi>Socinians.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>SECT. II.</hi> The Main Objection of the Heterodox <hi>Unita<g ref="char:EOLhyphen"/>rians</hi> is fully propos'd and ſolv'd by the Orthodox <hi>Trinitarians.</hi>
+               </head>
+               <p>HERE our <hi>Adverſaries</hi> do agree with <hi>
+                     <g ref="char:V">Ʋ</g>s,</hi> in the acknowledgment of <hi>One Only Omnipotent and Infinite Wiſe GOD;</hi> but they deny the <hi>Divinity</hi> of the <hi>Three Perſons, Father, Son,</hi> and <hi>Holy Spirit,</hi> ac<g ref="char:EOLhyphen"/>knowledging
+<pb n="6" facs="tcp:150264:7"/>but one <hi>Hypoſtaſis</hi> or <hi>Suppoſitum</hi> in the Deity. To prove which, they propoſe this following Argument,</p>
+               <list type="syllogism">
+                  <item>
+                     <hi>The</hi> Divine Nature <hi>is the</hi> Father.</item>
+                  <item>
+                     <hi>The</hi> Son <hi>is the</hi> Divine Nature.</item>
+                  <item>
+                     <hi>Therefore the</hi> Son <hi>is the</hi> Father.</item>
+               </list>
+               <p>So likewiſe, to prove the <hi>Holy Spirit</hi> to be but one and the ſame Perſon with the <hi>Son,</hi> as they ſuppoſe, they have prov'd the <hi>Father</hi> and the <hi>Son</hi> to be but <hi>One Perſon:</hi> and thus they reduce the <hi>Trinity</hi> of the <hi>Perſons</hi> to only one <hi>Hypoſtaſis</hi> or <hi>Perſonality.</hi> To effect this, they frame this Syllogiſm,</p>
+               <list type="syllogism">
+                  <item>
+                     <hi>The</hi> Divine Nature <hi>is the</hi> Son.</item>
+                  <item>
+                     <hi>The</hi> Holy Spirit <hi>is the</hi> Divine Nature.</item>
+                  <item>
+                     <hi>Therefore the</hi> Holy Spirit <hi>is the</hi> Son.</item>
+               </list>
+               <p>By theſe two Syllogiſms they intend to reduce the <hi>Paternity</hi> of the <hi>Father,</hi> the <hi>Filiation</hi> of the <hi>Son,</hi> and the <hi>Paſſive Spiration</hi> of the <hi>Holy Spirit,</hi> to be but one <hi>Hypoſtaſis</hi> or <hi>Perſonality,</hi> grounding themſelves upon that Orthodox Principle of ours, That there is a real Identity between the <hi>Deity</hi> and each of the <hi>Three Perſons,</hi> without which Identity they could not be Divine.</p>
+               <p>For Anſwer to this <hi>Achilles</hi> or efficacious Argu<g ref="char:EOLhyphen"/>ment, (as the <hi>Socinians</hi> do ſuppoſe) I reply by de<g ref="char:EOLhyphen"/>nying the Conſequence of both Syllogiſms; for nei<g ref="char:EOLhyphen"/>ther of them concludes, for want of the diſtribution of the <hi>medium</hi> or middle Term, which is the <hi>Divine Nature.</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:150264:7"/>
+To this the <hi>Socinians</hi> anſwer, That the two fore<g ref="char:EOLhyphen"/>mention'd Syllogiſms are both expoſitary, and there<g ref="char:EOLhyphen"/>fore do conclude with greater Perſpicuity and Cer<g ref="char:EOLhyphen"/>tainty than either of the Moods contained under the three Figures which <hi>Ariſtotle</hi> hath ſetled for the Rules of Diſputation; which likewiſe is the Opinion of all Philoſophers and Logicians ſince <hi>Ariſtotle</hi>'s Time: The reaſon is, becauſe an expoſitary Syllo<g ref="char:EOLhyphen"/>giſm hath all its three Terms ſingular, and neither of them capable of Multiplication; ſo that the di<g ref="char:EOLhyphen"/>ſtribution of the <hi>medium</hi> is needleſs: as in this Syllo<g ref="char:EOLhyphen"/>giſm,</p>
+               <list type="syllogism">
+                  <item>This <hi>Angel</hi> is ſent from <hi>God.</hi>
+                  </item>
+                  <item>
+                     <hi>Gabriel</hi> is this <hi>Angel.</hi>
+                  </item>
+                  <item>Therefore <hi>Gabriel</hi> is ſent from <hi>God.</hi>
+                  </item>
+               </list>
+               <p>In this Syllogiſm grant the Premiſes, and deny the Conſequence if you can: And a Thouſand more ſuch Examples might be produc'd, wherein the di<g ref="char:EOLhyphen"/>ſtribution of the <hi>medium</hi> is ſuperfluous.</p>
+               <p>To this I anſwer, by granting the Force of an expoſitary Syllogiſm, but denying that either of the two firſt Syllogiſms is expoſitary; for, though the <hi>medium</hi> in them both, which is the <hi>Divine Nature,</hi> appears ſingular, yet it is capable of Multiplication, by reaſon that it contains not only all the Infinite Perfections and Attributes of the <hi>Deity,</hi> which are all ſingular, and conſtitute but one ſingular Divine Subſtance, yet the <hi>Deity</hi> contains in it alſo the No<g ref="char:EOLhyphen"/>tional Predicates and Relative Perfections of <hi>Three Perſons</hi> which are really diſtinct from each other: And therefore, if the <hi>medium</hi> be not diſtributed,
+<pb n="8" facs="tcp:150264:8"/>the Syllogiſm is not in form, and concludes no<g ref="char:EOLhyphen"/>thing.</p>
+               <p>Here the <hi>Socinian,</hi> out of a civil compliance, ra<g ref="char:EOLhyphen"/>ther than loſe his faſt hold, will accommodate him<g ref="char:EOLhyphen"/>ſelf to the <hi>Genius</hi> of his Adverſary, by diſtributing his <hi>Medium,</hi> which he thus effects:</p>
+               <list type="syllogism">
+                  <item>All that is contain'd in the <hi>Deity</hi> is the <hi>Fa<g ref="char:EOLhyphen"/>ther.</hi>
+                  </item>
+                  <item>The <hi>Son</hi> is contain'd in the <hi>Deity.</hi>
+                  </item>
+                  <item>Therefore the <hi>Son</hi> is the <hi>Father.</hi>
+                  </item>
+               </list>
+               <p>This Syllogiſm is in form, and concludes right<g ref="char:EOLhyphen"/>ly; neither can you deny the <hi>major;</hi> for you ac<g ref="char:EOLhyphen"/>knowledge, that the <hi>Deity</hi> is one ſingular, indiviſible and individual Subſtance: you grant alſo a real Iden<g ref="char:EOLhyphen"/>tity between the <hi>Father</hi> and the <hi>Subſtance</hi> of the <hi>Deity;</hi> therefore by a rigid neceſſity you muſt grant a real Identity between the Father and the whole Real Subſtance of the Deity; for, it contains no Parts nor Particles really diſtinct from each o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>I anſwer by diſtinguiſhing the <hi>major,</hi> All the ab<g ref="char:EOLhyphen"/>ſolute Perfections contain'd in the <hi>Deity</hi> are the <hi>Fa<g ref="char:EOLhyphen"/>ther;</hi> I grant it. All the notional Predicates and re<g ref="char:EOLhyphen"/>lative Perfections contain'd in the <hi>Deity</hi> are the <hi>Father;</hi> I deny it: for the Filiation of the <hi>Son,</hi> and the <hi>paſſive Spiration</hi> of the <hi>Holy Spirit,</hi> are contain'd in the <hi>Deity,</hi> and yet are really diſtinct from the <hi>Father.</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:150264:8"/>
+To this the <hi>Socinian</hi> replies, That according to this diſtinction we muſt admit two Parts really di<g ref="char:EOLhyphen"/>ſtinct from each other, whereof the one is Identi<g ref="char:EOLhyphen"/>fied with the <hi>Father,</hi> the other not: where, of force, we muſt ſwallow a plain Contradiction, or admit two <hi>Parts</hi> in the <hi>Deity</hi> really diſtinct from each other, and both compleatly endow'd with the <hi>Deity;</hi> which is to admit two Gods, and ſo to de<g ref="char:EOLhyphen"/>throne and ungod the Omnipotent, who is the great Creator, Framer, and Preſerver of the whole Uni<g ref="char:EOLhyphen"/>verſe.</p>
+               <p>To anſwer this Objection, I do declare, That it is very remote from our Thoughts to admit in the Divinity more than one <hi>Real</hi> and <hi>Divine Subſtance;</hi> ſo that your Allegation of our granting <hi>Two Gods</hi> is frivolous and injurious to us.</p>
+               <p>As to the other part alledged in the Objection of admitting a Contradiction, <hi>Scotus,</hi> with all his School of the <hi>Scotiſts,</hi> do anſwer you, That here is no appearance of a Contradiction by reaſon of a Diſtinction which they call <hi>diſtinctionem mediam,</hi> or <hi>Ex Natura rei;</hi> that is, not real, but more than formal; which hath no dependance upon the opera<g ref="char:EOLhyphen"/>tion of the Underſtanding. By this they diſtinguiſh between the Divinity and the Notional Perfections of the Perſons: ſo that the Extreams of your pre<g ref="char:EOLhyphen"/>tended Contradiction are not the ſame.</p>
+               <p>Many other Learned Divines do admit of a Vir<g ref="char:EOLhyphen"/>tual Diſtinction between the Deity and the Notio<g ref="char:EOLhyphen"/>nal or Relative Predicates of the Perſons; by which your pretended Difficulty vaniſheth to Smoak.</p>
+               <p>
+                  <pb n="10" facs="tcp:150264:9"/>
+But becauſe I have in the Treatiſe of the <hi>Trinity</hi> impugned and rejected both theſe Opinions, my Anſwer is, That a formal Diſtinction, which is made by the Underſtanding, and ſuppoſed by the very Objection, is ſufficient to evacuate this preten<g ref="char:EOLhyphen"/>ded Difficulty; for hereby it will appear, that the pretended Contradiction is not <hi>ejuſdem de eodem,</hi> as the Philoſophers ſay; that is, both parts are not of the ſame Predicate, in order to the ſame Subject, which is neceſſary to make up a formal Contradi<g ref="char:EOLhyphen"/>ction, as all Philoſophers do require. So that we neither do admit <hi>Two Parts really diſtinct</hi> in the <hi>Deity,</hi> nor are we hereby forc'd to ſwallow a Contradiction, as our Adverſaries do moſt falſly pretend.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="11" facs="tcp:150264:9"/>
+               <head>
+                  <hi>SECT. III.</hi> A farther Attempt of the ſame Adverſaries is Propos'd and Solv'd.</head>
+               <p>HERE the <hi>Socinian</hi> begins to faint, as having run himſelf out of breath, and ſpent the beſt part of the Vigour and Energy of his Intellectual Faculty to ſupport his Poſition, yet will not leave his Cauſe ſo incompleatly accompliſh'd, and there<g ref="char:EOLhyphen"/>fore doth ſummon up the remainder of the Force and Vigour of his Underſtanding to accompliſh his Deſign. And thus he proceeds.</p>
+               <p>The Doctrine contained in the Anſwer to my laſt Objection is not conſiſtent with what you have for<g ref="char:EOLhyphen"/>merly acknowledg'd in this Diſpute, which is, That there are Three <hi>Hypoſtaſes,</hi> which are all Notional Predicates, belonging to the compleat Conſtitution of the <hi>Three Perſons,</hi> which are really diſtinct from each other, and yet all Three compleatly furniſh'd with all the Perfections of the <hi>Divinity,</hi> by a real Identity with it. How then doth this conſiſt with the admitting no more than one ſingular and nu<g ref="char:EOLhyphen"/>merical Subſtance in the Divinity; for you admit
+<pb n="12" facs="tcp:150264:10"/>Three diſtinct Perſons really Identified with the ſame Divinity?</p>
+               <p>To ſolve this, I muſt have recourſe to the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Circuminciſion.</hi> The Object in queſtion may be conſider'd ſeveral ways; but, to accommo<g ref="char:EOLhyphen"/>date my ſelf to the Fancy of the <hi>Socinians,</hi> I muſt conſider it by way of <hi>Circuminciſion;</hi> for when it is ſo taken, then the Divinity includes the three <hi>Hypo<g ref="char:EOLhyphen"/>staſes,</hi> namely, the <hi>Paternity</hi> of the <hi>Father,</hi> the <hi>Filia<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Son,</hi> and the <hi>paſſive Spiration</hi> of the <hi>Holy Spirit,</hi> as it were inveloped and implicated within it ſelf: and under this Conſideration it is numerical<g ref="char:EOLhyphen"/>ly but one ſingular and individual Subſtance, be<g ref="char:EOLhyphen"/>cauſe all the <hi>Hypoſtaſes, Relations,</hi> and <hi>Co-relations</hi> of the <hi>Perſons</hi> are really identified with the Divinity, and ſo make but <hi>one Subſtance</hi> with it.</p>
+               <p>And it is in this ſence the Council of <hi>Laterane,</hi> cited by me at large in the firſt Section of the firſt Diſputation of the Treatiſe of the <hi>Trinity,</hi> Cap. <hi>fir<g ref="char:EOLhyphen"/>miter,</hi> and Cap. <hi>daemianus De ſumma Trinitate,</hi> defines, That the <hi>Deity,</hi> with all its Relations and Perſo<g ref="char:EOLhyphen"/>nalities, conſtitute but <hi>unam ſummam rem,</hi> that is, but one chief Being; for, in this ſence the notional and relative Perfections of the Perſons are not to be con<g ref="char:EOLhyphen"/>fider'd. And this is the true meaning of <hi>Circumin<g ref="char:EOLhyphen"/>ciſion.</hi>
+               </p>
+               <p>But if you will diſſolve the <hi>Circuminciſion,</hi> and take abroad and unfold all that is in it, then the Perſonalities of the <hi>Three Perſons</hi> will appear really diſtinct from one another, and yet are the ſame in<g ref="char:EOLhyphen"/>dividual Subſtance with the Deity. And herein con<g ref="char:EOLhyphen"/>ſiſts the Myſtery of the <hi>Divine Trinity,</hi> which all
+<pb n="13" facs="tcp:150264:10"/>the extent of Nature cannot furniſh us with one Example to parallel: ſo that from the different acceptions of the ſame Object you raiſe a different ſenſe of it; and hence ariſeth the Difference be<g ref="char:EOLhyphen"/>tween you and your Adverſary: for, if you do not cautiouſly diſtinguiſh between the abſolute and no<g ref="char:EOLhyphen"/>tional terms, you muſt needs confound the objective Signification of them, which notwithſtanding are very different from each other, and this grounds a Confuſion in your Underſtanding.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>SECT. IV.</hi> The Objections. against <hi>Circuminciſion</hi> Solv'd.</head>
+               <p>BUT the <hi>Socinian</hi> is not ſatisfied with this Do<g ref="char:EOLhyphen"/>ctrine of <hi>Circuminciſion,</hi> but objects, That we grant, with the Council of <hi>Lateran,</hi> but <hi>One Reality</hi> made up of the <hi>Divinity</hi> and the <hi>Three Perſons;</hi> and yet we admit, That when the <hi>Circuminciſion</hi> is unfolded and taken abroad, there are <hi>Three Perſona<g ref="char:EOLhyphen"/>lities</hi> really diſtinct from each other: Which in<g ref="char:EOLhyphen"/>volves a plain Contradiction; for we aſſert, The whole is but <hi>One Reality, una ſumma res, only One Reality;</hi> and yet we likewiſe aſſert, That there are
+<pb n="14" facs="tcp:150264:11"/>more Realities contained in it: which is a plain Con<g ref="char:EOLhyphen"/>tradiction.</p>
+               <p>To this I anſwer,</p>
+               <p>That theſe Two Propoſitions there, is but One Reality.</p>
+               <p>There is more than One Reality. Theſe two are not contradictory, if taken in a different ſence; for the firſt is meant by <hi>Circuminciſion,</hi> the ſecond by <hi>Extenſion;</hi> which hinders the Contradiction.</p>
+               <p>Here the <hi>Socinian</hi> replies, That theſe ſeveral Ac<g ref="char:EOLhyphen"/>ceptions, or different Senſes of the ſame Object, are but different Conſiderations of the Underſtanding, which conſtitute only <hi>Formalities;</hi> why then do you obtrude them in this Diſcourſe, where we diſpute only of <hi>Realities,</hi> which is a meer Trick and Eva<g ref="char:EOLhyphen"/>ſion to involve the whole matter into obſcurity and confuſion, which in a fair way of diſputing ought not to be done?</p>
+               <p>Here the <hi>Socinian</hi> is brisk, and confident of his own Cauſe; yet give me leave to anſwer, That my Solution of the Difficulty propos'd is very pro<g ref="char:EOLhyphen"/>per; for, the <hi>Divinity</hi> is a <hi>ſingular</hi> and <hi>indiviſible Subſtance,</hi> and by a real Identity is the ſame thing with the <hi>Three Perſons;</hi> ſo that all together conſti<g ref="char:EOLhyphen"/>tute but <hi>One Reality:</hi> whereas, if you conſider the <hi>Perſons</hi> apart, you will find <hi>Three Realities</hi> diſtinct, whereof the one is incarnate, the other two are not; which is an evident ſign of a <hi>real Diſtin<g ref="char:EOLhyphen"/>ction.</hi>
+               </p>
+               <p>Here the <hi>Socinian</hi> replies again, alledging, That to ſolve one Contradiction we incurr another: for, we ſay, That one Perſon is incarnate, the other not: ſo that of the <hi>ſame Reality</hi> we ſay, <hi>This Rea<g ref="char:EOLhyphen"/>lity</hi>
+                  <pb n="15" facs="tcp:150264:11"/>is incarnate, and <hi>this ſame Reality</hi> is not incar<g ref="char:EOLhyphen"/>nate.</p>
+               <p>And thus we prove both parts of the Contra<g ref="char:EOLhyphen"/>diction:</p>
+               <list type="syllogism">
+                  <item>The <hi>Father</hi> is not incarnate.</item>
+                  <item>This <hi>Reality</hi> is the <hi>Father.</hi>
+                  </item>
+                  <item>Therefore this <hi>Reality</hi> is not incarnate.</item>
+               </list>
+               <p>The affirmative part of this Contradiction we prove thus:</p>
+               <list type="syllogism">
+                  <item>The <hi>Son</hi> is incarnate.</item>
+                  <item>This <hi>Reality</hi> is the <hi>Son.</hi>
+                  </item>
+                  <item>Therefore this <hi>Reality</hi> is incarnate.</item>
+               </list>
+               <p>I anſwer by denying the two 'fore-mention'd Propoſitions to be contradictory, for the negative Propoſition is verified only of the <hi>Father</hi> and the <hi>Holy Spirit,</hi> not of the <hi>Son:</hi> whereas the Affirma<g ref="char:EOLhyphen"/>tive is verified only of the <hi>Son,</hi> not of the <hi>Father,</hi> nor the <hi>Holy Spirit.</hi> Whence you may plainly per<g ref="char:EOLhyphen"/>ceive the pretended Contradiction is not <hi>ejuſdem de eodem;</hi> it is not of the ſame Predicate, in order to the ſame Subject, which is repugnant to the known Rule of Contradictories, for elſe theſe two would be contradictory. Man is like other Animals, and Man is not like other Animals; for, as being a li<g ref="char:EOLhyphen"/>ving ſenſible Creature, he is like other Animals, and as being endow'd with Reaſon, he is not like other Animals; and yet his Animality and Ratio<g ref="char:EOLhyphen"/>nality are but two Formalities, diſtinguiſh'd only by the Underſtanding. Now, if the paſſing from one Formality to another hinders the force of a Contra<g ref="char:EOLhyphen"/>diction,
+<pb n="16" facs="tcp:150264:12"/>much more will it hinder, by paſſing from one Reality to another; for the <hi>Father,</hi> the <hi>Son,</hi> and the <hi>Holy Spirit</hi> are really diſtinguiſh'd from each other.</p>
+               <p>But now the <hi>Socinian</hi> is ready to proſecute his Deſign farther, which we ſhall declare in the next Section.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>SECT. V.</hi> Wherein the reſt of the <hi>Unitarian</hi>'s Arguments are Propos'd and Solv'd.</head>
+               <p>HERE the <hi>Socinian</hi> pretends to drive us to another great Inconvenience, which is, to de<g ref="char:EOLhyphen"/>duce out of the precedent Doctrine a neceſſity of admitting <hi>Three Gods;</hi> for we admit <hi>Three Hypoſta<g ref="char:EOLhyphen"/>ſes</hi> or <hi>Relations</hi> really diſtinct from each other, and every one of them to be compleatly furniſh'd with the Divinity; and each of them conſtitutes a compleat Godhead, for they being <hi>Three</hi> in num<g ref="char:EOLhyphen"/>ber, there muſt of neceſſity be admitted <hi>Three Gods.</hi>
+               </p>
+               <p>To this Objection I anſwer, That the denomina<g ref="char:EOLhyphen"/>tion of <hi>GOD</hi> ſignifies principally and in <hi>recto</hi> the <hi>Divinity,</hi> and in <hi>obliquio</hi> the <hi>Hypoſtaſes</hi> or <hi>Relations,</hi> and is thus reſolved; The <hi>Divinity</hi> fubſiſting by
+<pb n="17" facs="tcp:150264:12"/>
+                  <hi>Three diſtinct Hypoſtaſes.</hi> Now, becauſe there is but one <hi>ſingular</hi> and <hi>individual Divinity,</hi> there can be but one <hi>ſingular</hi> and <hi>individual Godhead.</hi> Whereas the denomination of a <hi>Perſon</hi> ſignifies principally and <hi>in recto</hi> the <hi>Hypoſtaſes</hi> or <hi>Perſon,</hi> and is thus reſolv'd; The <hi>Hypoſtaſes</hi> or <hi>Subſiſtonce</hi> of the <hi>Divinity.</hi> So that there being <hi>Three Hypoſtaſes</hi> or <hi>Perſonalities di<g ref="char:EOLhyphen"/>ſtinct,</hi> there muſt be admitted <hi>Three diſtinct Perſons</hi> of one numerical Divinity.</p>
+               <p>Another Objection which they muſter up againſt us is this: We teach that the Perſons of the <hi>Father</hi> and the <hi>Son</hi> are really identified with the <hi>Deity,</hi> and the ſame thing with it, and yet we declare, that the <hi>Father</hi> and the <hi>Son</hi> are <hi>two Realities</hi> really diſtinct from one another; which contradicts that firſt Principle, known by the Light of Nature, <hi>Quae ſunt eadem uni tertio ſunt eadem inter ſe; They that are the ſame thing with a Third, are the ſame thing among themſelves.</hi> Wherein all the Art of Syllogiſms is grounded.</p>
+               <p>I anſwer by admitting that Principle, as being known by the Light of Nature, and that the Syllo<g ref="char:EOLhyphen"/>giſtical Art is grounded in it; but, I deny that our Doctrine is not conſiſtent with the Verity of it: for, if you conſider the <hi>Three Perſons</hi> as contained in the Deity, and really the ſame thing with it, they all together make up but <hi>One Reality,</hi> for in this manner you do not conſider the <hi>Perſons</hi> as related to one another, but only as identified with the Deity, which is by <hi>Circuminciſion.</hi> And in this ſence the Council of <hi>Lateran</hi> hath defined it to be but one
+<pb n="18" facs="tcp:150264:13"/>thing, or one individual Subſtance, by reaſon of the identity of the Perſons with the Deity.</p>
+               <p>And here I leave the <hi>Socinians</hi> to conſider more nicely and minutely the Difference between the <hi>ab<g ref="char:EOLhyphen"/>ſolute</hi> and <hi>notional</hi> Expreſſions in this Matter, and their Objective Significations, which will prevent any farther progreſs in framing any more Objections in this matter againſt us.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="19" facs="tcp:150264:13"/>
+               <head>SECT. VI. <hi>Certain</hi> Abſolete Opinions <hi>of</hi> another Nove<g ref="char:EOLhyphen"/>liſt <hi>are Propos'd and Solv'd.</hi>
+               </head>
+               <p>A BOOK fell lately into my Hands, in the pe<g ref="char:EOLhyphen"/>ruſal whereof I found certain Paradoxical Opinions deſtitute of <hi>Reaſon,</hi> and back'd on<g ref="char:EOLhyphen"/>ly by the ſingle Authority of the <hi>Author,</hi> whereof one was, the deſcription of the Eſſential Parts and Nature of an <hi>Individuum,</hi> which he defines to be nothing elſe but a <hi>Self-Conſciouſneſs,</hi> or an exact <hi>Cor<g ref="char:EOLhyphen"/>reſpondence with it ſelf;</hi> which he produceth no Rea<g ref="char:EOLhyphen"/>ſon to prove, neither did I ever hear or read of any ſuch definition of an <hi>Individuum;</hi> for, all Antiquity doth agree in this definition, That an <hi>Individuum</hi> is <hi>Indiviſum in ſe &amp; diviſum à quolibet alio;</hi> that is, it is undivided in it ſelf, and divided from any thing elſe: of which Definition this Author makes no men<g ref="char:EOLhyphen"/>tion, and therefore doth not impugn it.</p>
+               <div n="1" type="refutation">
+                  <p>The firſt Refutation of this Author's new Opi<g ref="char:EOLhyphen"/>nion is as followeth:</p>
+                  <p>A <hi>Self-Conſciouſneſs</hi> of a thing with it ſelf, ar<g ref="char:EOLhyphen"/>gues relation of the thing to it ſelf, which is
+<pb n="20" facs="tcp:150264:14"/>impoſſible, for a <hi>relation</hi> cannot ſubſiſt, except it mediates between two <hi>Extreams</hi> diſtinct from each other; the one is that whereon the <hi>relation</hi> is founded, the other is that to which it is terminated; but between a thing and its ſelf there is no diſtin<g ref="char:EOLhyphen"/>ction, for a thing and its ſelf are the ſelf-ſame nu<g ref="char:EOLhyphen"/>merical Object, which cannot admit of any <hi>rela<g ref="char:EOLhyphen"/>tion,</hi> and conſequently is uncapable of any <hi>Self-Con<g ref="char:EOLhyphen"/>ſciouſneſs.</hi>
+                  </p>
+               </div>
+               <div n="2" type="refutation">
+                  <head>The Second Refutation.</head>
+                  <p>There can be no <hi>Self-Conſciouſneſs</hi> but by the Vi<g ref="char:EOLhyphen"/>tal Acts produced by the <hi>Internal Faculties,</hi> which muſt have an exact Conformity with the Natural Inclination of the thing from whence they proceed; ſo that here can be no <hi>Self-Conſciouſneſs</hi> of any Ob<g ref="char:EOLhyphen"/>ject to itſelf, but of the Acts to their Cauſe.</p>
+               </div>
+               <div n="3" type="refutation">
+                  <head>The Third Refutation.</head>
+                  <p>This <hi>Self-Conſciouſneſs</hi> comes too late to conſtitute the Eſſential Notion of an <hi>Individuum;</hi> for, ſepa<g ref="char:EOLhyphen"/>rate this <hi>Self-Conſciouſneſs</hi> from the Origin whence it proceeds, and I demand, whether this Origin, as now diveſted of its <hi>Self-Conſciouſneſs,</hi> be not an <hi>In<g ref="char:EOLhyphen"/>dividuum:</hi> if ſo, then you have the <hi>Individuum</hi> com<g ref="char:EOLhyphen"/>pleatly conſtituted independent of this <hi>Self-Conſciouſ<g ref="char:EOLhyphen"/>neſs;</hi> for, either you muſt conſtitute the whole Eſ<g ref="char:EOLhyphen"/>ſence of your <hi>Self-Conſciouſneſs</hi> in a certain col<g ref="char:EOLhyphen"/>lection of Vital Acts, which are really diſtinguiſh'd from the Subſtance of the thing whoſe <hi>Self-Con<g ref="char:EOLhyphen"/>ſciouſneſs</hi> it is, or elſe you muſt conceive it to be
+<pb n="21" facs="tcp:150264:14"/>really identified with its Subject whereon it is groun<g ref="char:EOLhyphen"/>ded; if the firſt, you have the Ground and Subject remaining diveſted of its <hi>Self-Conſciouſneſs.</hi> Now, I demand, whether this Subſtance that remains ſepa<g ref="char:EOLhyphen"/>rated and diveſted from its <hi>Self-Conſciouſneſs</hi> be an <hi>Individuum</hi> or not? If it be, then you have the whole and adequate Eſſence of an <hi>Individuum,</hi> inde<g ref="char:EOLhyphen"/>pendent and precedent to your <hi>Self-Conſciouſneſs:</hi> But if it be not an <hi>Individuum,</hi> then it muſt be a <hi>Plurality;</hi> which is againſt common ſence, for it is a ſingular numerical Subſtance, undivided in itſelf, and divided from any thing elſe, and therefore an <hi>Individuum.</hi> But if you chuſe the ſecond by a real Identity with the Subſtance, which is the Ground and Foundation of it, then you muſt by a Metaphy<g ref="char:EOLhyphen"/>ſical Diſtinction preſcind it, and ſlice it as a For<g ref="char:EOLhyphen"/>mality from its <hi>Subject.</hi> And ſo, by your Under<g ref="char:EOLhyphen"/>ſtanding, conſider that Subſtance as mentally ſepa<g ref="char:EOLhyphen"/>rated from its <hi>Self-Conſciouſneſs,</hi> and you will find a ſingular and numerical Subſtance, which is undivi<g ref="char:EOLhyphen"/>ded in its ſelf, and divided from any thing elſe: which is the eſſential Definition of an <hi>Individuum.</hi>
+                  </p>
+                  <p>Here I might introduce other inanimate Crea<g ref="char:EOLhyphen"/>tures, as, the <hi>Elements, Metals, Stones,</hi> and the like, which have no collection of <hi>Vital Acts,</hi> wherein to place your <hi>Self-Conſciouſneſs,</hi> and yet they are all <hi>In<g ref="char:EOLhyphen"/>dividuums;</hi> as appears by the definition by me given.</p>
+                  <p>Another Opinion I find in this Author, whereby he aſſerts, That a <hi>Horſe</hi> is a <hi>Perſon;</hi> not regulating himſelf by any Definition or Deſcription of a <hi>Per<g ref="char:EOLhyphen"/>ſon,</hi> but goes on in a talking way, and ſtill remains in the <hi>Praeliminaris</hi> of the Queſtion in debate, without
+<pb n="22" facs="tcp:150264:15"/>ever penetrating into the Heart of the Difficulty, or touching the Sore: ſo that by this not <hi>arguing,</hi> but <hi>talking</hi> way of Writing, nothing can be ſubſtantial<g ref="char:EOLhyphen"/>ly proved, nothing efficaciouſly impugned: Where<g ref="char:EOLhyphen"/>fore this Author not having given any definition nor deſcription of a <hi>Perſon,</hi> I have nothing here to re<g ref="char:EOLhyphen"/>fute, but his <hi>Abſolete Poſition</hi> of introducing unreaſo<g ref="char:EOLhyphen"/>nable <hi>Brute Beaſts</hi> into the number of <hi>Perſons,</hi> in or<g ref="char:EOLhyphen"/>der to which, I muſt here give an eſſential definition of a <hi>Perſon,</hi> which is this: <hi>Rationalis naturae individua &amp; completa Subſtantia;</hi> that is, <hi>A Compleat, Rational,</hi> and <hi>Individual Substance.</hi> By which definition all <hi>
+                        <g ref="char:V">Ʋ</g>nreaſonable Creatures</hi> are excluded from the notion of <hi>Perſons;</hi> and only <hi>GOD,</hi> the <hi>Angels,</hi> and <hi>Men,</hi> are admitted.</p>
+               </div>
+            </div>
+            <div n="7" type="section">
+               <pb n="23" facs="tcp:150264:15"/>
+               <head>
+                  <hi>SECT. VII.</hi> Two other Opinions of the ſame Author are Pro<g ref="char:EOLhyphen"/>pos'd and Solv'd.</head>
+               <p>A THIRD Opinion I find in this Author, whereby he affirms to be contained in the Deity <hi>Three Infinite Minds,</hi> not proving nor at<g ref="char:EOLhyphen"/>tempting to prove his Poſition by any Argu<g ref="char:EOLhyphen"/>ment.</p>
+               <p>This Doctrine, and the Conſequence of it, I can<g ref="char:EOLhyphen"/>not brook; for, by admitting <hi>Three Infinite Minds</hi> in <hi>GOD,</hi> he will hardly avoid the admitting of <hi>Three GODS:</hi> which were Blaſphemy to aſſert, and which I thus prove:</p>
+               <p>The <hi>Mind</hi> is a Vital Faculty, belonging and ap<g ref="char:EOLhyphen"/>pertaining to the <hi>
+                     <g ref="char:V">Ʋ</g>nderſtanding;</hi> a Term not notio<g ref="char:EOLhyphen"/>nal nor relative, but abſolute and ſingular in the Deity; and therefore to admit <hi>Three Infinite Minds,</hi> is the ſame as to admit <hi>Three Infinite <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ings,</hi> which being an Abſolute Attribute, can no more be multiply'd than the Godhead itſelf, which is common to all the Abſolute Attributes of the Deity, which all together make but one Subſtance
+<pb n="24" facs="tcp:150264:16"/>with GOD himſelf; whence I conclude, that the admitting of <hi>Three Infinite Minds</hi> in GOD, is of dangerous conſequence, and not eaſily to be main<g ref="char:EOLhyphen"/>tained, for it hath a direct Tendency to <hi>Pa<g ref="char:EOLhyphen"/>ganiſm.</hi>
+               </p>
+               <p>A Fourth Opinion of this Author is, That the Unity of the <hi>Three Divine Perſons</hi> conſiſts eſſenti<g ref="char:EOLhyphen"/>ally in the <hi>Mutual Conſciouſneſs</hi> of them to each o<g ref="char:EOLhyphen"/>ther, whereby the <hi>Three Divine Perſons</hi> are made <hi>One</hi> by their mutual correſpondence and exact agreeing in the Faculties of their Underſtanding and Will with each other.</p>
+               <p>This Opinion is no more prov'd by Reaſon nor Authority than his former Opinions, but meerly aſ<g ref="char:EOLhyphen"/>ſerted, which Opinion I thus impugn: Separate at leaſt with your Underſtanding this <hi>Mutual Conſciouſ<g ref="char:EOLhyphen"/>neſs</hi> from the <hi>Three Perſons,</hi> and there will remain <hi>Three Subſtances</hi> without their Unity: Theſe <hi>Three Subſtances</hi> are either created or increated; if the firſt, then the <hi>Three Perſons</hi> are meer <hi>Creatures;</hi> which is rank <hi>Socinianiſm:</hi> if the ſecond, then they muſt be really identified with the <hi>Divine Nature;</hi> and if ſo, then in vain do you ſeek for another Unity, for you have here the ſtricteſt Unity that poſ<g ref="char:EOLhyphen"/>ſibly can be, namely, by a real Identity with the <hi>Divine Nature,</hi> which is precedent to your <hi>Mutual Con<g ref="char:EOLhyphen"/>ſciouſneſs.</hi> And this is the True Notion and Orthodox Doctrin of the <hi>Divine Trinity.</hi>
+               </p>
+               <p>Beſides, this Unity that you affix to the <hi>Divine Perſons</hi> is only moral or metaphorical, no better than it would be between three Men or three Angels; which is a great Indignity to the Infinite Perfecti<g ref="char:EOLhyphen"/>on
+<pb n="25" facs="tcp:150264:16"/>of the Great God, who has in himſelf all Per<g ref="char:EOLhyphen"/>fections poſſible, and no Defect.</p>
+               <p>Note briefly here, That an <hi>Object</hi> of <hi>Three Subſtan<g ref="char:EOLhyphen"/>ces</hi> or <hi>Perſons</hi> muſt firſt have its compleat Being be<g ref="char:EOLhyphen"/>fore it is capable of your <hi>Mutual Conſciouſneſs:</hi> Con<g ref="char:EOLhyphen"/>ſider it therefore in its original Exiſtency, which was from all Eternity, and ponder with your ſelf if there were not in that ſtate an <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> in the <hi>Trinity,</hi> and <hi>Trinity</hi> in <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> without the leaſt mention or co<g ref="char:EOLhyphen"/>operation of your <hi>Mutual Conſciouſneſs.</hi>
+               </p>
+               <p>And here I conclude this Treatiſe of the <hi>Ever Bleſſed</hi> and <hi>Moſt Sacred Trinity;</hi> all which, and every part thereof, I humbly ſubmit to the Judgment and Cenſure of Thoſe upon whom it is incumbent to regulate the Faith, Belief and Doctrine of the <hi>Proteſtant Church</hi> of <hi>England.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
